@@ -1,0 +1,25 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+
+
+.error {
+  position: absolute;
+  color: red;
+  font-size: .8rem;
+}
+
+
+.submitted-data {
+  margin-bottom:100px;
+  margin-top: 300px;
+ 
+}
+
+.form-section {
+  margin-top: 200px;
+  margin-bottom: 400px;
+}
